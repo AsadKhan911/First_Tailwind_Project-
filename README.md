@@ -6,7 +6,7 @@ Welcome to my Facebook Login Page Clone project, showcasing the 2024 version. Th
 
 This project serves as a demonstration of my proficiency in using Tailwind CSS to create a modern and responsive user interface. It's a reimagined version of the Facebook login page, incorporating the latest design trends and elements.
 
-![Facebook Login Page Clone](C:\Users\Nexgen\Pictures\Screenshots\Screenshot (955).png)
+![Facebook Login Page Clone](Project_Screenshot.png)
 
 ## Features
 
