@@ -1,4 +1,4 @@
-# Facebook Login Page Clone (2024 Version) - Tailwind CSS Project
+# Facebook Login Page Clone (2024 Version) - Tailwind CSS Project :)
 
 Welcome to my Facebook Login Page Clone project, showcasing the 2024 version. This project is based on my learning from a tutorial created in 2021, but I've revamped and updated it to reflect the current design of the Facebook login page as of 2024.
 
